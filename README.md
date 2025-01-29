@@ -4,17 +4,17 @@ I'm EMCdev from South Africa, and I'm a self-taught frontend developer. I love b
 
 # Connect with me via: 
 
-*Instagram:
+* Instagram:
 https://www.instagram.com/emcdev/
 
-*LinkedIn:
+* LinkedIn:
 www.linkedin.com/in/erin-emcdev
 
-*Email:
+* Email:
 mailto:erinemcdevconnects@gmail.com 
 
-#Skills: 
-*HTML
-*CSS
-*JS
-*WordPress
+# Skills: 
+* HTML
+* CSS
+* JS
+* WordPress
